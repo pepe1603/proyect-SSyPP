@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin User",
+      "email": "admin@example.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "a930",
+      "email": "hector@example.com",
+      "password": "hector123",
+      "role": "student"
+    },
+    {
+      "id": "390c",
+      "email": "jorge@example.com",
+      "password": "wfw4f",
+      "role": "student"
+    },
+    {
+      "id": "50fa",
+      "email": "adfw4@unach.mx",
+      "password": "wfw4f",
+      "role": "student"
+    },
+    {
+      "id": "951e",
+      "email": "luis@example.com",
+      "password": "luis123"
+    },
+    {
+      "id": "c260",
+      "email": "maria@example.com",
+      "password": "maria123"
+    },
+    {
+      "id": "36c8",
+      "email": "paco@example.com",
+      "password": "paco123"
+    }
+  ]
+}
