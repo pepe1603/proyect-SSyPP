@@ -1,0 +1,69 @@
+
+primevue/resources/themes/md-light-indigo/theme.css
+primevue/resources/themes/md-light-deeppurple/theme.css
+primevue/resources/themes/md-dark-indigo/theme.css
+primevue/resources/themes/md-dark-deeppurple/theme.css
+primevue/resources/themes/mdc-light-indigo/theme.css
+primevue/resources/themes/mdc-light-deeppurple/theme.css
+primevue/resources/themes/mdc-dark-indigo/theme.css
+primevue/resources/themes/mdc-dark-deeppurple/theme.css
+primevue/resources/themes/aura-light-blue/theme.css
+primevue/resources/themes/aura-light-indigo/theme.css
+primevue/resources/themes/aura-light-purple/theme.css
+primevue/resources/themes/aura-light-teal/theme.css
+primevue/resources/themes/aura-light-green/theme.css
+primevue/resources/themes/aura-light-amber/theme.css
+primevue/resources/themes/aura-light-cyan/theme.css
+primevue/resources/themes/aura-light-pink/theme.css
+primevue/resources/themes/aura-light-lime/theme.css
+primevue/resources/themes/aura-light-noir/theme.css
+primevue/resources/themes/aura-dark-blue/theme.css
+primevue/resources/themes/aura-dark-indigo/theme.css
+primevue/resources/themes/aura-dark-purple/theme.css
+primevue/resources/themes/aura-dark-teal/theme.css
+primevue/resources/themes/aura-dark-green/theme.css
+primevue/resources/themes/aura-dark-amber/theme.css
+primevue/resources/themes/aura-dark-cyan/theme.css
+primevue/resources/themes/aura-dark-pink/theme.css
+primevue/resources/themes/aura-dark-lime/theme.css
+primevue/resources/themes/aura-dark-noir/theme.css
+primevue/resources/themes/lara-light-blue/theme.css
+primevue/resources/themes/lara-light-indigo/theme.css
+primevue/resources/themes/lara-light-purple/theme.css
+primevue/resources/themes/lara-light-teal/theme.css
+primevue/resources/themes/lara-light-green/theme.css
+primevue/resources/themes/lara-light-amber/theme.css
+primevue/resources/themes/lara-light-cyan/theme.css
+primevue/resources/themes/lara-light-pink/theme.css
+primevue/resources/themes/lara-dark-blue/theme.css
+primevue/resources/themes/lara-dark-indigo/theme.css
+primevue/resources/themes/lara-dark-purple/theme.css
+primevue/resources/themes/lara-dark-teal/theme.css
+primevue/resources/themes/lara-dark-green/theme.css
+primevue/resources/themes/lara-dark-amber/theme.css
+primevue/resources/themes/lara-dark-cyan/theme.css
+primevue/resources/themes/lara-dark-pink/theme.css
+
+
+Algunos Estilos por defecto de Prime vue
+: p-listbox: Esta clase se utiliza para el componente de lista desplegable. Proporciona estilos para la lista desplegable, como el tamaño, el color y los bordes.
+
+p-checkbox: Esta clase se utiliza para el componente de casilla de verificación. Proporciona estilos para las casillas de verificación, como el tamaño y los colores.
+
+p-radiobutton: Esta clase se utiliza para el componente de botón de opción. Proporciona estilos para los botones de opción, como el tamaño y los colores.
+
+p-togglebutton: Esta clase se utiliza para el componente de botón de alternancia. Proporciona estilos para los botones de alternancia, como el tamaño y los colores.
+
+p-spinner: Esta clase se utiliza para el componente de spinner. Proporciona estilos para el spinner, como el tamaño y los colores.
+
+p-tooltip: Esta clase se utiliza para el componente de tooltip. Proporciona estilos para el tooltip, como el tamaño, el color y la posición.
+
+p-tabview: Esta clase se utiliza para el componente de pestañas. Proporciona estilos para las pestañas, como el tamaño, el color y los bordes.
+
+p-menu: Esta clase se utiliza para el componente de menú. Proporciona estilos para el menú, como el tamaño, el color y la posición.
+
+p-tree: Esta clase se utiliza para el componente de árbol. Proporciona estilos para el árbol, como el tamaño, el color y los iconos de los nodos.
+
+p-chips: Esta clase se utiliza para el componente de chips. Proporciona estilos para los chips, como el tamaño, el color y los bordes.
+
+p-toolbar: Esta clase se utiliza para el componente de barra de herramientas. Proporciona estilos para la barra de herramientas, como el tamaño, el color y los bordes.

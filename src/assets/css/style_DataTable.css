@@ -1,0 +1,18 @@
+
+.custom-table {
+    border: 1px solid #ccc; /* Agrega un borde de 1px sólido con color gris claro */
+    border-radius: 5px; /* Añade esquinas redondeadas */
+    overflow: auto; /* Añade desplazamiento automático si el contenido es demasiado grande */
+  }
+  
+  .custom-table .p-datatable-thead {
+    background-color: #f0f0f0; /* Cambia el color de fondo del encabezado de la tabla */
+  }
+  
+  .custom-table .p-datatable-tbody tr:nth-child(even) {
+    background-color: #f9f9f9; /* Alterna el color de fondo de las filas para mejorar la legibilidad */
+  }
+  
+  .custom-table .p-paginator {
+    margin-top: 10px; /* Añade un margen superior al paginador para separarlo de la tabla */
+  }

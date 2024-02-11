@@ -1,0 +1,35 @@
+
+/*Css importado para estilos de Prime vue y icons*/
+@import 'primeicons/primeicons.css';
+//@import './layout_scss/topbar.scss';
+@import './css/style_DataTable.css';
+@import './css/style_card.css';
+.custom-label{
+    font-size: small;
+}
+.custom-flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.divider-hl{
+    display: none;
+}
+.divider-vl{
+    margin: 1rem;
+}
+
+@media (max-width: 800px) {
+    .custom-flex{
+        flex-direction: column;
+    }
+    .divider-hl{
+        display: block;
+        margin: 1rem;
+    }
+    .divider-vl{
+        display: none;
+    }
+
+    
+}

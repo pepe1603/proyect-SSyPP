@@ -1,0 +1,39 @@
+/* Estilos para el layout cPanel */
+
+.layout-cpanel {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+  
+  .topbar {
+    flex: 0 0 auto; /* Esto hace que la topbar tenga una altura fija y no se estire */
+  }
+  
+  .container {
+    display: flex;
+    flex: 1; /* Esto hace que el container ocupe todo el espacio restante en la dirección principal (vertical) */
+  }
+  
+  .sidebar {
+    flex: 0 0 250px; /* Ancho fijo para el sidebar */
+    background-color: #f0f0f0; /* Color de fondo del sidebar, puedes personalizarlo según tu diseño */
+  }
+  
+  .main-content {
+    flex: 1; /* Esto hace que el main-content ocupe todo el espacio restante en la dirección principal (horizontal) */
+    padding: 20px;
+  }
+  
+  .hide-sidebar-btn {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    z-index: 9999;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  

@@ -1,0 +1,29 @@
+/* Estilos para la tarjeta */
+.p-card {
+    padding: 1rem;
+    margin: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 0.25rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  /* Estilos para el título de la tarjeta */
+  .p-card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  /* Estilos para el contenido de la tarjeta */
+  .p-card-content {
+    font-size: 1rem;
+  }
+  
+  /* Estilos para el pie de la tarjeta */
+  .p-card-footer {
+    margin-top: 1rem;
+    font-size: 0.9rem;
+    color: #666;
+  }
+  
